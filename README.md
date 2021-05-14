@@ -1,39 +1,50 @@
-# R 
+# Why learn coding?
 
-R is a general-purpose programming language that is great for the digital humanities. 
+“It follows, then, that any instructor—-in the humanities or otherwise-—must first ask herself what she hopes her students will accomplish by learning to code. Is it an understanding of how to think algorithmically, so as to better comprehend how certain tasks can be abstracted into a series of steps? Is it a familiarity with the basic components of programming languages, so as to be able to understand how code is structured and produced? Is it the knowledge of a specialized programming language, one with specific applications in a particular field? Or is it the more experiential knowledge of what it feels like to move from defining functions and assigning variables to running executable code?"
+[Digital Pedagogy in the Humanities: Concepts, Models, and Experiments: Code by Lauren Klein](https://digitalpedagogy.mla.hcommons.org/keywords/code/) 
 
-Learning R fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the internet, and engaging in distant reading of texts.
+* You don't need to be become fluent if it's not the focus of your interest, but it is helpful to have reading fluency, like any other language that is an important part of your research. Also, like any other language, use will help you retain and gain knowledge. 
 
-The R fundamentals session is an introduction to the essentials of R and the Tidyverse.
+***Recurring questions to keep in mind: What are the affordances of choosing this path? What are the limitations?*** 
+* "I started to notice that the way people talk about technology is out of sync with what digital technology actually can do. Ultimately, everything we do with computers comes down to math, and there are fundamental limits to what we can (and should) do with it."[Hello Reader](https://mitpress.mit.edu/read/hello-reader)
 
-We will do this by introducing some essential parts of R and then working through [Chapter 1](https://www.tidytextmining.com/tidytext.html) of [Text Mining With R](https://www.tidytextmining.com/).
+## Required before session
+**Read the following chapter before this session.**
+* [Chapter 2 Hello World](https://ebookcentral-proquest-com.proxy.libraries.smu.edu/lib/southernmethodist/reader.action?docID=5355856&ppg=23) 
+*    From [Broussard, Meredith. Artificial Unintelligence : How Computers Misunderstand the World. Cambridge, Massachusetts: The MIT Press, 2018.]
+* We will return to concepts brought up in this chapter over the next few days. Keep the following questions in mind:
+    * What is happening when computer does analysis?
+    * What are the affordances and limitations of doing computational analysis for humanities questions? 
+    * What does it mean that 'Ultimately, data always comes down to people counting things"?
 
-By the end, we will have imported multiple classic books into R and compare word usage between their authors.
+ In this session we will discuss some useful contextual information for the upcoming hands-on workshop (Python).
 
-Download and use this code file: [chapter 1.R](chapter%201.R).
-
-[Slides from the presentation.](Class%201%20(DHRI)%20(public).pptx)
-
-Related Repositories:
-* [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
-* [Glossary for all sessions](https://github.com/DHRI-Curriculum/glossary)
-
-
+[Next >>>](sections/command-line-useful.md)
 ----
 
 What you will find in this Repository
 
 -----
 
-[Which DH language should you learn?](sections/which.md)
 
-[Follow up](sections/continue.md)
+[What is the command line?](sections/command-line-useful.md)
+
+[What do we mean by text editors?](sections/text-editors.md)
+
+[Cloud-based Versus Local-Based environments](sections/cloud-vs-local.md)
+
+[What do we mean by computing in the humanities?](sections/computing-in-humanities.md)
+
+[Which DH language should you learn?](sections/which-lang.md)
+
+[Summary](sections/summary.md)
+
 
 
 -----
 
-Session Leader: Aren Cambre
-
+Session Leaders:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) & [Jonathan McMichael](http://guides.smu.edu/prf.php?account_id=104877)
+* Written by Rafia Mirza. Edited by Joanna Russell Bliss
 
 Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
 [This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
